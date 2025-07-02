@@ -84,11 +84,12 @@ I'm a 22-year-old **Software Engineering student** passionate about creating inn
 
 <div align="center">
   
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashi-47&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashi-47&layout=compact&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashi-47&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashi-47&theme=tokyonight&hide_border=false)
+
 
 </div>
 
