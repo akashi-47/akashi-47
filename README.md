@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 22-year-old **Software Engineering student** passionate about creating innovative solutions and building robust applications. Currently pursuing my Engineering Degree in Computer Science at Faculty of Sciences and Techniques of Settat, I'm actively seeking a **2-3 month summer internship** to apply my technical skills and contribute to exciting projects.
+I am Ismail Saili, a 23-year-old software engineering student seeking a PFE internship in software development to apply my technical skills and contribute to innovative projects. Currently, I am pursuing an engineering degree in computer engineering and have also earned a bachelor’s degree in mathematics and computer science.
 
 - 🎓 **Engineering Student** at Faculty of Sciences and Techniques of Settat
 - 🏆 **Oracle Certified Professional (OCP)** & **Oracle Certified Associate (OCA)** Java SE 8 Programmer
@@ -43,6 +43,8 @@ I'm a 22-year-old **Software Engineering student** passionate about creating inn
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 🚀 Tools & Technologies
 
@@ -80,6 +82,30 @@ I'm a 22-year-old **Software Engineering student** passionate about creating inn
 - Responsive design for optimal user experience
 - Complete CRUD operations with RESTful APIs
 
+## 🏆 Certifications
+
+- 🥇 **Oracle Certified Professional (OCP)** - Java SE 8 Programmer (February 2025)
+- 🥈 **Oracle Certified Associate (OCA)** - Java SE 8 Programmer (January 2025)
+
+## 💼 Professional Experience
+
+**- Backend Developer Intern** | Reewayy  
+*July 2025 - September 2025* | *France (Remote)*  
+- Worked on the **Purchasing Module** of the supply chain process, managing procurement workflows and relationships between providers, partners, and internal stakeholders.  
+- **Technologies:** Java, Spring Boot, PostgreSQL, Docker  
+
+**- Web Developer Intern** | Faculty of Sciences and Techniques of Al-Hoceima  
+*May 2023 - June 2023*  
+- Developed a comprehensive web application for announcement management  
+- Implemented responsive frontend using HTML, CSS, and JavaScript  
+- Built server-side logic with PHP and MySQL database integration  
+
+## 🌍 Languages
+
+- 🇲🇦 **Arabic**: Native
+- 🇺🇸 **English**: Fluent
+- 🇫🇷 **French**: Fluent
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -92,25 +118,6 @@ I'm a 22-year-old **Software Engineering student** passionate about creating inn
 
 
 </div>
-
-## 🏆 Certifications
-
-- 🥇 **Oracle Certified Professional (OCP)** - Java SE 8 Programmer (February 2025)
-- 🥈 **Oracle Certified Associate (OCA)** - Java SE 8 Programmer (January 2025)
-
-## 💼 Professional Experience
-
-**Web Developer Intern** | Faculty of Sciences and Techniques of Al-Hoceima  
-*May 2023 - June 2023*
-- Developed a comprehensive web application for announcement management
-- Implemented responsive frontend using HTML, CSS, and JavaScript
-- Built server-side logic with PHP and MySQL database integration
-
-## 🌍 Languages
-
-- 🇲🇦 **Arabic**: Native
-- 🇺🇸 **English**: Fluent
-- 🇫🇷 **French**: Fluent
 
 ## 📫 Let's Connect!
 
@@ -129,7 +136,7 @@ I'm a 22-year-old **Software Engineering student** passionate about creating inn
 
 ### 🚀 Open to Opportunities!
 
-*Currently seeking summer internship opportunities in Software Development*  
+*Currently seeking PFE internship opportunities in Software Development*  
 *Let's build something amazing together!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akashi-47&color=brightgreen&style=flat-square)
