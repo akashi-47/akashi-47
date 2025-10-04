@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am Ismail Saili, a 23-year-old software engineering student seeking a PFE internship in software development to apply my technical skills and contribute to innovative projects. Currently, I am pursuing an engineering degree in computer engineering and have also earned a bachelor’s degree in mathematics and computer science.
+I am Ismail Saili, a 23-year-old software engineering student seeking a PFE internship in software development to apply my technical skills and contribute to innovative projects. Currently, I am pursuing an engineering degree in computer science and have also earned a bachelor’s degree in mathematics and computer science.
 
 - 🎓 **Engineering Student** at Faculty of Sciences and Techniques of Settat
 - 🏆 **Oracle Certified Professional (OCP)** & **Oracle Certified Associate (OCA)** Java SE 8 Programmer
