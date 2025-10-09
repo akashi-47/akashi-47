@@ -61,13 +61,6 @@ I am Ismail Saili, a 23-year-old software engineering student seeking a PFE inte
 
 ## 🎯 Featured Projects
 
-### 🎵 Rhythmfy - Music Streaming Mobile App
-**Flutter • FastAPI • MongoDB**
-- Cross-platform mobile application for music streaming
-- Modern UI/UX with Flutter framework
-- RESTful API backend with FastAPI
-- NoSQL database integration with MongoDB
-
 ### 🛒 Full-Stack E-commerce Platform
 **Spring Boot • React • Next.js • MySQL**
 - Complete e-commerce solution with modern architecture
@@ -81,7 +74,13 @@ I am Ismail Saili, a 23-year-old software engineering student seeking a PFE inte
 - Real-time order tracking and management
 - Responsive design for optimal user experience
 - Complete CRUD operations with RESTful APIs
-
+  
+### 🎵 Rhythmfy - Music Streaming Mobile App
+**Flutter • FastAPI • MongoDB**
+- Cross-platform mobile application for music streaming
+- Modern UI/UX with Flutter framework
+- RESTful API backend with FastAPI
+- NoSQL database integration with MongoDB
 ## 🏆 Certifications
 
 - 🥇 **Oracle Certified Professional (OCP)** - Java SE 8 Programmer (February 2025)
