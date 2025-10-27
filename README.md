@@ -90,8 +90,10 @@ I am Ismail Saili, a 23-year-old software engineering student seeking a PFE inte
 
 **- Backend Developer Intern** | Reewayy  
 *July 2025 - September 2025* | *France (Remote)*  
-- Worked on the **Purchasing Module** of the supply chain process, managing procurement workflows and relationships between providers, partners, and internal stakeholders.  
-- **Technologies:** Java, Spring Boot, PostgreSQL, Docker  
+- Worked on the **Purchasing Module** of the supply chain process, managing procurement workflows and relationships between providers, partners, and internal stakeholders.
+- Developed an automated system for contract generation and electronic signature.
+- Designed and executed unit and integration tests to ensure code reliability and coverage.
+- **Technologies:** Java, Spring Boot, PostgreSQL, Docker, JUnit, Mockito
 
 **- Web Developer Intern** | Faculty of Sciences and Techniques of Al-Hoceima  
 *May 2023 - June 2023*  
